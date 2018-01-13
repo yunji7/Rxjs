@@ -1,0 +1,20 @@
+{
+  "name": "rxjs",
+  "description": "test Rxjs  running ",
+  "version": "0.0.24",
+  "dependencies": {
+    "rxjs": "5.5.6",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "jest": "22.0.4"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
